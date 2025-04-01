@@ -1,0 +1,18 @@
+{
+  "name": "hono-mistral-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "@hono/node-server": "^1.14.0",
+    "@mistralai/mistralai": "^1.5.2",
+    "hono": "^4.7.5"
+  }
+}
